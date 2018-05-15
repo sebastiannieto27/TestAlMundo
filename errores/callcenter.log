@@ -1,0 +1,46 @@
+INFO    2018-05-14 18:00:57,139 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 2el valor del getProperty  
+INFO    2018-05-14 18:01:07,118 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 1el valor del getProperty  
+INFO    2018-05-14 18:01:07,137 [main] com.co.call.center.modelo.impl.OperadorImpl  - create successfully Operador Empleado [callCenterGetPropertyValues=null, nombre=Operador, rango=1, parametrosLlamada=null, dispatcher=Thread[Thread-2,5,main]]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 1
+INFO    2018-05-14 18:01:07,138 [Thread-2] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 1
+INFO    2018-05-14 18:01:07,138 [Thread-2] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Operador te va atender la llamada 1
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 1el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.OperadorImpl  - create successfully Operador Empleado [callCenterGetPropertyValues=null, nombre=Operador, rango=1, parametrosLlamada=null, dispatcher=Thread[Thread-4,5,main]]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 2
+INFO    2018-05-14 18:01:07,138 [Thread-4] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 2
+INFO    2018-05-14 18:01:07,138 [Thread-4] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Operador te va atender la llamada 2
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 1el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.OperadorImpl  - create successfully Operador Empleado [callCenterGetPropertyValues=null, nombre=Operador, rango=1, parametrosLlamada=null, dispatcher=Thread[Thread-6,5,main]]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 3
+INFO    2018-05-14 18:01:07,138 [Thread-6] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 3
+INFO    2018-05-14 18:01:07,138 [Thread-6] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Operador te va atender la llamada 3
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 1el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.OperadorImpl  - create successfully Operador Empleado [callCenterGetPropertyValues=null, nombre=Operador, rango=1, parametrosLlamada=null, dispatcher=Thread[Thread-8,5,main]]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 4
+INFO    2018-05-14 18:01:07,138 [Thread-8] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 4
+INFO    2018-05-14 18:01:07,138 [Thread-8] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Operador te va atender la llamada 4
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 3el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.DirectorImpl  - create successfully Director DirectorImpl [create successfully]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 5
+INFO    2018-05-14 18:01:07,138 [Thread-10] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 5
+INFO    2018-05-14 18:01:07,138 [Thread-10] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Director te va atender la llamada 5
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 2el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.SupervisorImpl  - create successfully Supervisor SupervisorImpl [create successfully]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 6
+INFO    2018-05-14 18:01:07,138 [Thread-12] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 6
+INFO    2018-05-14 18:01:07,138 [Thread-12] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Supervisor te va atender la llamada 6
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 2el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.SupervisorImpl  - create successfully Supervisor SupervisorImpl [create successfully]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 7
+INFO    2018-05-14 18:01:07,138 [Thread-14] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 7
+INFO    2018-05-14 18:01:07,138 [Thread-14] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Supervisor te va atender la llamada 7
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 2el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.SupervisorImpl  - create successfully Supervisor SupervisorImpl [create successfully]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 8
+INFO    2018-05-14 18:01:07,138 [Thread-16] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 8
+INFO    2018-05-14 18:01:07,138 [Thread-16] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Supervisor te va atender la llamada 8
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.config.properties.CallCenterGetPropertyValues  - 2el valor del getProperty  
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.modelo.impl.SupervisorImpl  - create successfully Supervisor SupervisorImpl [create successfully]
+INFO    2018-05-14 18:01:07,138 [main] com.co.call.center.dispatcher.impl.DispatcherImpl  - Llamada Entrante... 9
+INFO    2018-05-14 18:01:07,138 [Thread-18] com.co.call.center.dispatcher.impl.DispatcherImpl  - Proceso de llamada Iniciando 9
+INFO    2018-05-14 18:01:07,138 [Thread-18] com.co.call.center.dispatcher.impl.DispatcherImpl  -  El trabajador  Supervisor te va atender la llamada 9
