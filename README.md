@@ -5,7 +5,7 @@ Desarrollando Test para la empresa AlMundo
 
 Resumiendo un poco el proceso:
 
-1.Jdk 1.7.
+1. Por favor configurar Jdk 1.7 por que a veces se desconfigura.
 
 2.Entorno de desarrollo Eclipse. 
 
